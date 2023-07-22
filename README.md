@@ -12,12 +12,5 @@ Once the model is trained and ready, we proceed to develop a Python Flask server
 Step 3: Website Development
 The heart of this project lies in creating an interactive website using HTML, CSS, and JavaScript. The website's user-friendly interface allows users to input details like home square footage, number of bedrooms, etc. Upon submission, the website interacts with the Python Flask server to retrieve and display the predicted property price.
 
-# Technology and tools wise this project covers->
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+
